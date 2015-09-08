@@ -1,0 +1,19 @@
+{
+    "name": "lvitals/wkhtmltopdf-amd64",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for i386 systems.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Leandro Vital",
+            "email": "leandro.vital@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-i386"
+    ],
+    "require": {
+    }
+}
